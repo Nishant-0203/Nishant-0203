@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am currently a student at **Chitkara University**.  
+My major is **Computer Science and Technology**.  
+🌱 I’m currently learning **Web Development** and **Data Structures**.  
+💬 If you have any questions, feel free to ask me.  
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
