@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on student-led tech initiatives and open-source projects<br>
 🤝 I’m looking for help with mastering backend technologies<br>
 🌱 I’m currently learning Web Development and Data Structures<br>
-💬 Ask me about anything related to HTML, CSS, JavaScript, or college life at Chitkara University<br>
+💬 Ask me about anything related to MERN or college life at Chitkara University<br>
 ⚡ Fun fact: I love turning ideas into code and seeing them come alive on the web!<br>
 
 
