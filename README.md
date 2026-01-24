@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nishant Bhalla  
 
-🎓 **Computer Science Engineering Student** at **Chitkara University (CGPA: 9.23)**  
+🎓 **Computer Science Engineering Student** at **Chitkara University (CGPA: 9.24)**  
 💻 **Full-Stack Developer** passionate about crafting **scalable and high-performance web experiences** using **React.js, Next.js, MongoDb and Node.js**.  
 
 🚀 I love transforming ideas into intuitive digital products — blending creativity, problem-solving, and clean engineering.  
