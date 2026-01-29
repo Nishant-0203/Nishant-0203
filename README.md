@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
 
 ### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
