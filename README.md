@@ -6,7 +6,7 @@
 💻 **Full-Stack Developer** passionate about crafting **scalable and high-performance web experiences** using **React.js, Next.js, MongoDb and Node.js**.   
 
 🚀 I love transforming ideas into intuitive digital products — blending creativity, problem-solving, and clean engineering.  
-🧠 Currently exploring **AI-driven development** and contributing to **open-source** projects that make an impact.  
+🧠 Currently exploring **AI-driven development** and contributing to  **open-source** projects that make an impact.  
 
 ---
 
