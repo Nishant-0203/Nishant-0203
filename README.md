@@ -1,4 +1,4 @@
-<!-- Nishant Bhalla GitHub Profile README -->
+<!-- Nishant Bhalla GitHub Profile README 
 
 # 👋 Hi, I'm Nishant Bhalla  
 
@@ -7,6 +7,46 @@
 
 🚀 I love transforming ideas into intuitive digital products — blending creativity, problem-solving, and clean engineering.  
 🧠 Currently exploring **AI-driven development** and contributing to  **open-source** projects that make an impact.  
+
+
+# 📂 Featured Projects  
+
+💼 [**ResumeUp.AI**](https://github.com/Nishant-0203/ResumeUp.AI) – AI-powered resume analyzer serving 100+ users daily, reducing review time by 70%.  
+💰 [**MyDues**](https://github.com/Nishant-0203/Mydues) – AI-driven expense tracker with secure authentication & real-time spending insights.  
+🤖 **IoT Liquid Vending Machine**– Recognized at DICE TechInnovate 2.0 for smart hardware innovation.  
+
+---
+
+## 📬 Contact Me  
+📧 **Email:** [work.nishant32@gmail.com](mailto:work.nishant32@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/nishant-bhalla](https://www.linkedin.com/in/nishant-bhalla/)  
+💻 **GitHub:** [github.com/Nishant-0203](https://github.com/Nishant-0203)  
+🏆 **LeetCode:** [leetcode.com/u/nishant0203](https://leetcode.com/u/nishant0203)
+
+---
+
+⭐ *“Building intelligent, scalable, and human-centered web experiences — one commit at a time.”*
+-->
+# 👋 Hi, I'm Nishant Bhalla  
+
+🎓 Computer Science Engineering @ Chitkara University (**CGPA: 9.27**)  
+💻 Full-Stack Engineer focused on **scalable, production-grade systems**  
+🚀 Building **AI-powered applications** that solve real-world problems  
+
+---
+
+## ⚡ What I Actually Do  
+- Engineer **end-to-end web systems** (frontend → backend → infra)  
+- Design **scalable architectures** with clean abstractions & performance focus  
+- Integrate **AI into real products** (not demos)  
+- Optimize systems for **speed, reliability, and maintainability**  
+
+---
+
+## 🧠 Current Focus  
+- AI + Software Engineering (practical applications > hype)  
+- Backend performance optimization & system design  
+- Writing **production-level code**, not just project code  
 
 ---
 
@@ -52,20 +92,39 @@
 
 ---
 
-# 📂 Featured Projects  
+## 📊 Proof of Work  
 
-💼 [**ResumeUp.AI**](https://github.com/Nishant-0203/ResumeUp.AI) – AI-powered resume analyzer serving 100+ users daily, reducing review time by 70%.  
-💰 [**MyDues**](https://github.com/Nishant-0203/Mydues) – AI-driven expense tracker with secure authentication & real-time spending insights.  
-🤖 **IoT Liquid Vending Machine**– Recognized at DICE TechInnovate 2.0 for smart hardware innovation.  
+📌 **ResumeUp.AI**  
+→ AI resume analyzer serving **100+ daily users**  
+→ Reduced manual review time by **70%**  
+
+📌 **MyDues**  
+→ Real-time expense tracking with **server-driven balance computation**  
+→ Automated insights + reminders using AI pipelines  
+
+📌 **MindStack** *(from your resume :contentReference[oaicite:0]{index=0})*  
+→ Built **19 secure REST APIs** with JWT + Google OAuth  
+→ Integrated **multi-model AI fallback system** (production-grade thinking)  
+→ Optimized DB queries + compression for performance  
 
 ---
 
-## 📬 Contact Me  
-📧 **Email:** [work.nishant32@gmail.com](mailto:work.nishant32@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/nishant-bhalla](https://www.linkedin.com/in/nishant-bhalla/)  
-💻 **GitHub:** [github.com/Nishant-0203](https://github.com/Nishant-0203)  
-🏆 **LeetCode:** [leetcode.com/u/nishant0203](https://leetcode.com/u/nishant0203)
+## 🏆 Achievements  
+- 🥇 Dean’s List — Top 5% (CSE Department)  
+- 🥈 Verdict AI/ML Hackathon — 2nd place (80+ teams)  
+- 🥈 DICE TechInnovate 2.0 — Smart IoT system  
+- 💯 Solved **800+ DSA problems** (600+ on LeetCode)  
 
 ---
 
-⭐ *“Building intelligent, scalable, and human-centered web experiences — one commit at a time.”*
+## 📬 Reach Out  
+📧 work.nishant32@gmail.com  
+🔗 LinkedIn: linkedin.com/in/nishant-bhalla  
+💻 GitHub: github.com/Nishant-0203  
+🏆 LeetCode: leetcode.com/u/nishant0203  
+
+---
+
+## ⚠️ Reality Check  
+Most developers build projects.  
+I focus on building **systems that scale, perform, and solve real problems.**
